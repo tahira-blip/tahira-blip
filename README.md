@@ -58,7 +58,7 @@ I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy! To 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/her4a/her4a/output/github-snake-dark.svg">
-    <img src="https://raw.githubusercontent.com/her4a/her4a/output/github-snake.svg" alt="snake gif"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahira-blip/tahira-blip/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/tahira-blip/tahira-blip/output/github-snake.svg" alt="snake gif"/>
   </picture>
 </div>
