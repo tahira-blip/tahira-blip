@@ -61,4 +61,23 @@ I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy! To 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tahira-blip/tahira-blip/output/github-snake-dark.svg">
     <img src="https://raw.githubusercontent.com/tahira-blip/tahira-blip/output/github-snake.svg" alt="snake gif"/>
   </picture>
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=tahira-blip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=tahira-blip&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+
 </div>
+
+---
+
+## ❤️ Let's Connect! :D
+
+<p align="center">
+  <a href="https://www.instagram.com/eldritch_glitch/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/tahiraaa.maidinshifwell/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a>
+</p>
+
