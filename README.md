@@ -23,7 +23,7 @@
 
 I am a fullstack dev, lowkey neurodivergent, and I prioritize whimsy! To me, the reason coding is so fascinating is because it also reflects the foundation of the human mind; building logic, managing memory, making intricate connections, and sometimes... just letting systems run. Navigating code helps me navigate the noise, acting as an anchor when my brain decides to dissociate, allowing me to build structure out of absolute chaos.
 
-    </td>
+  </td>
     <td align="center">
       <img src="https://64.media.tumblr.com/67b238c32af629f3ae3f478167898e3c/58cad97b8380aa1f-1d/s540x810/b4b8e3f813d003c93c2b9b855ede4cd8857a229b.gif" width="200" alt="Maki Zenin Vibe"/>
     </td>
