@@ -21,7 +21,7 @@
   <tr>
     <td width="70%">
 
-I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy! To me, the reason coding is so fascinating is because it also reflects the foundation of the human mind; building logic, managing memory, making intricate connections, and sometimes... just letting systems run. Navigating code helps me navigate the noise, acting as an anchor when my brain decides to dissociate, allowing me to build structure out of absolute chaos.
+I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy. Coding is fascinating because it reflects the foundation of the human mind; like building logic, managing memory, making intricate connections, and sometimes just letting systems run.
 
   </td>
     <td align="center">
@@ -50,7 +50,7 @@ I am a fullstack dev intern, lowkey neurodivergent, and I prioritize whimsy! To 
 </div>
 
 * 💻 **Grinding:** My fullstack internship & surviving the matrix.
-* 💅 **Channeling:** Absolute Maki Zenin energy—breaking ceilings and building my own strength.
+* 💅 **Channeling:** Absolute Maki Zenin energy.
 
 ---
 
